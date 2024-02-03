@@ -6,8 +6,8 @@
 
 .main_box{
     background:  url("photo.jpg");
-    height: 100vh;   /*jb hme kisi div ki height pure wev page pr krna chahte hai ya us div ko webpage ke size ka bnana chahate hai (jb bhi hmko apne web page pr koi photo lgani hai ya koi background color set krkr usko pure web page ki height ke brabr set krna chhate hai to hum uski height ko 100vh(view point) set kar dete hai */
-    background-size: cover;   /*hmne jo pic lgayi wo clear nhi aa rahi thi to uske liye hmne is property ko use kiya hai jisse photo hmare pure web page pr fx size me aa gyi */
+    height: 100vh;   
+    background-size: cover;
 }
 
 .btn_one i{
@@ -54,7 +54,7 @@
     position: absolute;
     left: 275px;
     opacity: 0;
-    cursor: pointer;  /* jb hum apne es selected id wale element pr jayenge to waha hmara cursor hath me bdl jayega*/  
+    cursor: pointer; 
     transition: all 0.3s linear;  
 }
 .sidebar_menu .menu{
