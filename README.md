@@ -1,1 +1,0 @@
-# Menu-Bar-of-Photography-page
